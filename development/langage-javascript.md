@@ -54,8 +54,8 @@ Dans le cadre de mon alternance chez juridifeel je suis amené à utiliser du Ja
 
 ### Titre
 
-- lien
-- description
+- [MDN Web Docs](https://developer.mozilla.org/fr/)
+- Toutes les ressources et documentations liée au JS
 
 ## 🚧 Je franchis les obstacles
 
