@@ -38,11 +38,15 @@ generateStairs(5);
 
 Description :
 
+petite api qui récupère les données météo et qui les renvoie depuis une api tierce
+
 ### J'ai utilisé ce langage en production ✔️
 
 [lien du projet](https://juridifeel.com/accueil)
 
 Description :
+
+Web App sur laquelle je travaille en alternance
 
 ### J'ai utilisé ce langage en environement professionnel ✔️
 
@@ -63,15 +67,17 @@ Dans le cadre de mon alternance chez juridifeel je suis amené à utiliser du Ja
 
 Description:
 
+J'ai un peu de mal à penser les algorithmes avec des boucles selon des conditions
+
 Plan d'action : (à valider par le formateur)
 
-- Faire une présentation rapide des base de JS ❌ / ✔️
+- Faire les algorithmes avancés en JS ❌ / ✔️
 
 
 Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌ 
+- J'ai fait une [présentation](...) ❌ 
 
