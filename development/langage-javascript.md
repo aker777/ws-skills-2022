@@ -6,34 +6,49 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
-- les spécifités du mot-clef `this` ❌ / ✔️
+- les `structures` de base du langage  ✔️
+- les normes `ecmascript` ✔️
+- l'utilisation de l'`asynchrone`  ✔️
+- les spécifités du mot-clef `this`  ✔️
 
 ## 💻 Je code en Javascript
 
-### Un exemple de code commenté ❌ / ✔️
+### Un exemple de code commenté ✔️
 
 ```javascript
-(e) => mc2;
+function generateStairs(row) {
+    let output = '';
+    let result = [];
+    for (let i = 1; i <= row; i++) {
+        for (let j = 1; j <= i; j++) {
+            output += '*' + '  ';
+        }
+        result.push(output);
+        output = '';
+    }
+    return result;
+}
+
+generateStairs(5);
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
-
-Description :
-
-### J'ai utilisé ce langage en production ❌ / ✔️
-
-[lien du projet](...)
+[lien github](https://github.com/aker777/quick_weather/blob/master/public/js/weather.js)
 
 Description :
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
+### J'ai utilisé ce langage en production ✔️
+
+[lien du projet](https://juridifeel.com/accueil)
 
 Description :
+
+### J'ai utilisé ce langage en environement professionnel ✔️
+
+Description :
+
+Dans le cadre de mon alternance chez juridifeel je suis amené à utiliser du Javascript au quotidien.
 
 ## 🌐 J'utilise des ressources
 
@@ -50,9 +65,8 @@ Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
+- Faire une présentation rapide des base de JS ❌ / ✔️
+
 
 Résolution :
 
